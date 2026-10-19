@@ -1,0 +1,47 @@
+{
+  "version": "4.12.0",
+  "download_url": "https://www.mediafire.com/file/3611pb2x59tvt1h/CodeXYZ_4.12.0.apk/file",
+  "force_update": false,
+  "changelog": "New Features:
+• New file management system
+• Dark mode interface
+• Updated icon set
+• GitHub repository cloning support
+• Swipe-to-action on file items
+• Quick scroll buttons
+• Particle background animation (static if animation is 0)
+• SD card access support
+• Multiple file selection (folders can only be moved)
+• File copy/move operations
+• Quick ZIP file preview
+• New FAB with BottomSheet menu
+• CRC32 hash verification
+• sora-editor 0.14.0 with TextMate support
+• Mini HTML preview
+• Image editor
+• Enhanced music player
+
+Improvements:
+• Improved scroll thumb design
+• Replaced ListView with RecyclerView
+• Better JSON and Java code formatting
+• Terminal enhancements
+• New grid view for files
+• Advanced swipe-to-refresh implementation
+• Improved file loading performance
+
+Deprecations:
+• Removed 'Java Codes' activity
+• Removed app icon extraction
+• Replaced reflection-based translucency with XML styles
+• Integrated 'More Tools' into navigation drawer
+• Moved extract-code and binary conversion to Editor
+• Changed default folder to /storage/emulated/0/CodeXYZ
+
+Known Issues:
+• Performance lag with large file lists (device-dependent)
+• Crash when tapping with multiple fingers
+• Folder corruption during move operations
+• Some features may be unstable and there are some glitches in landscape orientation
+"
+}
