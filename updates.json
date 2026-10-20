@@ -1,6 +1,11 @@
 {
-  "version": "4.13.0",
-  "download_url": "https://www.mediafire.com/file/3611pb2x59tvt1h/CodeXYZ_4.12.0.apk/file",
+  "version": "4.15.0",
+  "version_code": 5,
+  "download_url": "https://example.com/CodeXYZ-4.15.0.apk",
+  "changelog": ["Bug fixes", "New archive features"],
+  "changelog_ar": ["إصلاح أخطاء", "ميزات جديدة للأرشيف"],
   "force_update": false,
-  "changelog": "New Features: New file management system, Dark mode interface, Updated icon set, GitHub repository cloning support. Improvements: Improved scroll thumb design, Better JSON formatting."
+  "min_version": "4.10.0",
+  "sha256": "",
+  "size": 0
 }
