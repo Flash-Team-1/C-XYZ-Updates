@@ -1,7 +1,7 @@
 {
   "version": "4.15.0",
   "version_code": 5,
-  "download_url": "https://example.com/CodeXYZ-4.15.0.apk",
+  "download_url": "https://www.mediafire.com/file/fxgxncb2dtufot7/CodeXYZ_4.14.0.apk/file",
   "changelog": ["Bug fixes", "New archive features"],
   "changelog_ar": ["إصلاح أخطاء", "ميزات جديدة للأرشيف"],
   "force_update": false,
